@@ -40,7 +40,7 @@ I'm a fullstack developer looking to improve the digital world one step at a tim
 
 ### 📊 Stats
 
-![Forrest's GitHub stats](https://github-readme-stats.vercel.app/api?username=forrestknight&show_icons=true&theme=gruvbox)
+![Bakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakir004&show_icons=true&theme=gruvbox)
 
 <!-- ![GitHub Streak](https://streak-stats.demolab.com?user=ForrestKnight&theme=gruvbox&border_radius=4.5) -->
 

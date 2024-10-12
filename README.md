@@ -5,8 +5,8 @@
 I'm a fullstack developer looking to improve the digital world one step at a time. I have a passion for learning and enjoy challenges.
 
    <p align="left">
-      <a href="https://www.youtube.com/c/fknight?sub_confirmation=1">
-         <img alt="youtube subscribers" title="Subscribe to my YouTube channel" src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UC2WHjPDvbE6O328n17ZGcfg?color=%23E05D44&label=38777_LINES_OF_CODE&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"/></a> 
+      <a href="#">
+      <img alt="lines of code" title="Total Lines of Code" src="https://img.shields.io/badge/Lines%20of%20Code-38777-blue?style=for-the-badge&logo=code&logoColor=white&labelColor=0052cc"/></a>
       <a href="https://www.youtube.com/c/fknight">
          <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
       <a href="https://github.com/ForrestKnight?tab=followers">

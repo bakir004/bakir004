@@ -42,7 +42,10 @@ I'm a fullstack developer looking to improve the digital world one step at a tim
 ### Latest YouTube videos
 
 <!-- BEGIN YOUTUBE-CARDS -->
-
+[![Media Catalogue Video Demonstration](https://ytcards.demolab.com/?id=lpbyvd9OLG4&title=Media+Catalogue+Video+Demonstration&lang=en&timestamp=1696087066&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Media Catalogue Video Demonstration")](https://www.youtube.com/watch?v=lpbyvd9OLG4)
+[![Unity Games Video Demonstration](https://ytcards.demolab.com/?id=iS8fNIIry0g&title=Unity+Games+Video+Demonstration&lang=en&timestamp=1696082829&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Unity Games Video Demonstration")](https://www.youtube.com/watch?v=iS8fNIIry0g)
+[![Dopuni.ba Video Demonstration](https://ytcards.demolab.com/?id=9yNA-BPxNco&title=Dopuni.ba+Video+Demonstration&lang=en&timestamp=1696082827&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "Dopuni.ba Video Demonstration")](https://www.youtube.com/watch?v=9yNA-BPxNco)
+[![ASCII Geometry Video Demonstration](https://ytcards.demolab.com/?id=I_y7xL1Xs5o&title=ASCII+Geometry+Video+Demonstration&lang=en&timestamp=1696082825&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "ASCII Geometry Video Demonstration")](https://www.youtube.com/watch?v=I_y7xL1Xs5o)
 <!-- END YOUTUBE-CARDS -->
 
 ### 📊 Stats

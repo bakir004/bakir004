@@ -39,6 +39,12 @@ I'm a fullstack developer looking to improve the digital world one step at a tim
 
 #
 
+### Latest YouTube videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+
+<!-- END YOUTUBE-CARDS -->
+
 ### 📊 Stats
 
 ![Bakir's GitHub stats](https://github-readme-stats.vercel.app/api?username=bakir004&show_icons=true&theme=gruvbox)

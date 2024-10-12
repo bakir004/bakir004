@@ -6,9 +6,7 @@ I'm a fullstack developer looking to improve the digital world one step at a tim
 
    <p align="left">
       <a href="#">
-      <img alt="lines of code" title="Total Lines of Code" src="https://img.shields.io/badge/Lines%20of%20Code-38777-ff5733?style=for-the-badge&logo=code&logoColor=white&labelColor=cc3300"/></a>
-      <a href="https://www.youtube.com/c/fknight">
-         <img alt="youtube views" title="YouTube views" src="https://custom-icon-badges.demolab.com/youtube/channel/views/UC2WHjPDvbE6O328n17ZGcfg?color=%23E1AD0E&logo=eye&logoColor=white&style=for-the-badge&labelColor=C79600"/></a> 
+         <img alt="lines of code" title="Total Lines of Code" src="https://img.shields.io/badge/Lines%20of%20Code-38777-ff5733?style=for-the-badge&logo=code&logoColor=white&labelColor=cc3300"/></a>
       <a href="https://github.com/ForrestKnight?tab=followers">
          <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.demolab.com/github/followers/bakir004?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
       <a href="https://github.com/bakir004?tab=repositories&sort=stargazers">

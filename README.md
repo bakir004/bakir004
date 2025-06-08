@@ -2,7 +2,7 @@
 
 **`Fullstack Developer`**
 
-I'm a fullstack developer looking to improve the digital world one step at a time. I have a passion for learning and enjoy challenges.
+I like to program stuff.
 
    <p align="left">
       <a href="#">
